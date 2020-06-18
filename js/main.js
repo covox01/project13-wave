@@ -11,7 +11,7 @@ var wave2 = wavify(document.querySelector('#wave2'), {
    height: 100,
    bones: 5,
    amplitude: 50,
-   color: 'rgba(255, 255, 255, .9)',
+   color: 'rgba(255, 255, 255, .8)',
    // speed: .0
 })
 
@@ -19,7 +19,7 @@ var wave3 = wavify(document.querySelector('#wave3'), {
    height: 50,
    bones: 3,
    amplitude: 50,
-   color: 'rgba(200, 255, 200, .3)',
+   color: 'rgba(255, 255, 255, .3)',
    // speed: .25
 })
 

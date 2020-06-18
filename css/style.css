@@ -16,7 +16,7 @@
    position: relative;
    border-radius: 50%;
    overflow: hidden;
-   border: 30px solid rgb(56, 61, 56);
+   border: 30px solid rgb(0, 0, 0);
 }
 
 svg {
