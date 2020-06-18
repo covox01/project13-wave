@@ -1,5 +1,3 @@
-// var wavify = require("wavify")
-
 var wave1 = wavify(document.querySelector('#wave1'), {
    height: 200,
    bones: 8,
