@@ -3,7 +3,7 @@
 var wave1 = wavify(document.querySelector('#wave1'), {
    height: 200,
    bones: 8,
-   amplitude: 50,
+   amplitude: 30,
    color: 'rgba(200, 200, 200, .8)',
    // speed: .25
 })
