@@ -24,10 +24,10 @@ var wave3 = wavify(document.querySelector('#wave3'), {
 })
 
 
-TweenMax.ticker.addEventListener("tick", colorticker);
+// TweenMax.ticker.addEventListener("tick", colorTicker);
 
-function colorTicker(){
-   gradient = Math.floor(Math.random() * 2) + .5
-}
+// function colorTicker(){
+//    gradient = Math.floor(Math.random() * 2) + .5
+// }
 
 
